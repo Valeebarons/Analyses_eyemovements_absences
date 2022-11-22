@@ -21,7 +21,7 @@ source reconstruction of each time point of every absence seizures of 10 specifi
 - FEF.m 
 from extracted positions of dipoles (from dipfitFT_allpat.m), derive dipoles lying within frontal eye field (FEF). 
 
-(Credits V. Barone, MC. Piastra)
+(Credits: V. Barone, MC. Piastra)
 
 # ET  
 
