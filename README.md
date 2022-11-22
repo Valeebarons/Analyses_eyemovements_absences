@@ -7,7 +7,7 @@ The analyses are developed in:
 - MATLAB (version R2018b) and the freely available EEGlab (version 2021.0) and Fieldtrip (version 20220714)
 - Python 3.8
 
-# EEG (credits V. Barone, MC. Piastra)
+# EEG 
 - absence_quantification.m
 quantitative EEG features (i.e., amplitude, peak frequency, slope of peak frequency, centre of gravity) of absence seizures for 10 specific pediatric patients with absence seizure. 
 
@@ -21,9 +21,13 @@ source reconstruction of each time point of every absence seizures of 10 specifi
 - FEF.m 
 from extracted positions of dipoles (from dipfitFT_allpat.m), derive dipoles lying within frontal eye field (FEF). 
 
-# ET
+(credits V. Barone, MC. Piastra)
+
+# ET  
 
 - eyemovements.py
 preprocessing of ET from Tobii Nano Pro. 
 extrapolation of eye movements variables (e.g., fixation, saccadic latency, saccadic duration, processing speed).
 visualization of eye movements of one trial for one specific subject
+
+(Credits: V. Barone, J. Boons)
