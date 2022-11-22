@@ -1,13 +1,13 @@
 # Analyses_eyemovements_absences
 Here you will find the analyses of EEG and eye movements of patients with absence seizures used for our manuscript. 
 
-Credits?
+
 
 The analyses are developed in:
--MATLAB (version R2018b) and the freely available EEGlab (version 2021.0) and Fieldtrip (version 20220714)
--Python 3.8
+- MATLAB (version R2018b) and the freely available EEGlab (version 2021.0) and Fieldtrip (version 20220714)
+- Python 3.8
 
-# EEG
+# EEG (credits V. Barone, MC. Piastra)
 - absence_quantification.m
 quantitative EEG features (i.e., amplitude, peak frequency, slope of peak frequency, centre of gravity) of absence seizures for 10 specific pediatric patients with absence seizure. 
 
