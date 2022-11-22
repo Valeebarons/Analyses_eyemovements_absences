@@ -15,10 +15,10 @@ quantitative EEG features (i.e., amplitude, peak frequency, slope of peak freque
 analyses of bivariate connectivity using phase lag index at 3 Hz during absence seizures for 10 specific patients. 
 unweighted graph analyses using PLI: hubness, cluster coefficient, path length. Use functions pathlength.m, plot_clustercoef.m
 
--dipfitFT_allpat.m 
+- dipfitFT_allpat.m 
 source reconstruction of each time point of every absence seizures of 10 specific patients using dipole fitting via Fieldtrip.
 
--FEF.m 
+- FEF.m 
 from extracted positions of dipoles (from dipfitFT_allpat.m), derive dipoles lying within frontal eye field (FEF). 
 
 
