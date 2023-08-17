@@ -30,4 +30,7 @@ preprocessing of ET from Tobii Nano Pro.
 extrapolation of eye movements variables (e.g., fixation, saccadic latency, saccadic duration, processing speed).
 visualization of eye movements of one trial for one specific subject
 
+
+- functions_BCIintegration.py
+visualization of eye movements during absence seizures of BCIgame gameSproj.osexp
 (Credits: V. Barone, J. Boons)
