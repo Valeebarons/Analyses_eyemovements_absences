@@ -9,7 +9,7 @@ The analyses are developed in:
 
 # EEG 
 - absence_quantification.m
-quantitative EEG features (i.e., amplitude, peak frequency, slope of peak frequency, centre of gravity) of absence seizures for 10 specific pediatric patients with absence seizure. 
+quantitative EEG features (i.e., amplitude, peak frequency, slope of peak frequency, centre of gravity) of absence seizures for 10 specific pediatric patients with absence seizures. 
 
 - connectivityanalysis.m
 analyses of bivariate connectivity using phase lag index at 3 Hz during absence seizures for 10 specific patients. 
@@ -27,9 +27,11 @@ from extracted positions of dipoles (from dipfitFT_allpat.m), derive dipoles lyi
 
 - eyemovements.py
 preprocessing of ET from Tobii Nano Pro. 
-extrapolation of eye movements variables (e.g., fixation, saccadic latency, saccadic duration, processing speed).
+extrapolation of eye movement variables (e.g., fixation, saccadic latency, saccadic duration, processing speed).
 visualization of eye movements of one trial for one specific subject
 
+-results_BCIgameintegration.py
+pipeline for eye tracking data analysis of functions embedded in functions_BCIintegration.py
 
 - functions_BCIintegration.py
 visualization of eye movements during absence seizures of BCIgame gameSproj.osexp
